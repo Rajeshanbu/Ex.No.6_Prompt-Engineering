@@ -65,6 +65,9 @@ Code explanation depends on clarity and user level. ChatGPT gives digestible chu
 ---
 
 ### 4. Fix a Bug in Code
+
+![image](https://github.com/user-attachments/assets/39dd4b20-d28f-45ad-b117-e4018d61a9f8)
+
 - **Prompt:** Fix the bug in the provided code snippet.
 - **All Outputs:** All tools fixed the error correctly.
 
